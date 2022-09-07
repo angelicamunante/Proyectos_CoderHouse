@@ -1,4 +1,5 @@
-import storageManager from "../helpers/storageManager.js";
+import storageManager from "../helpers/storeManager.js";
+
 const productManager = new storageManager("productos.txt");
 //~~~~~~~~~~Listar todos los productos~~~~~~~~~~~~~~~~
 const getAllProducts = async (req, res) => {

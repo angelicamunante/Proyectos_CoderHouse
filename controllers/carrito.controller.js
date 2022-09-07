@@ -1,4 +1,5 @@
-import storageManager from "../helpers/storageManager.js";
+import storageManager from "../helpers/storeManager.js";
+
 const cartManager = new storageManager("carrito.txt");
 const productManager = new storageManager("productos.txt");
 

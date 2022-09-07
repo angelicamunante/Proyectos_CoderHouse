@@ -1,4 +1,4 @@
- [
+[
   {
     "products": [
       {
@@ -16,7 +16,18 @@
     "timestamp": "Wed Sep 07 2022"
   },
   {
-    "products": [],
+    "products": [
+      {
+        "name": "React",
+        "description": "Curso de React",
+        "code": "19821",
+        "image": "https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png",
+        "price": 250,
+        "stock": 30,
+        "id": 2,
+        "timestamp": "Wed Sep 07 2022"
+      }
+    ],
     "id": 2,
     "timestamp": "Wed Sep 07 2022"
   }
